@@ -10,7 +10,7 @@
 (function() {
     'use strict';
 
-    const apiKey = '30fad3b44f78e0047c193794';
+    const apiKey = 'INPUT YOUR OWN API KEY HERE!!!! ITS FREE AND TAKES LESS THAN 3 MINUTES';
     const apiUrl = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/JPY`;
 
     // Function to fetch the exchange rate and convert yen to USD
